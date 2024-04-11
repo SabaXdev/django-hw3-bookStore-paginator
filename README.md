@@ -68,4 +68,3 @@ Second Page
 - Django: Web framework for building the application.
 - Python: Programming language used for backend development.
 - HTML/CSS: Frontend markup and styling.
-- Bootstrap (optional): Frontend framework for responsive design.

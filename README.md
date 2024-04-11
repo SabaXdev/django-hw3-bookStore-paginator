@@ -55,10 +55,13 @@ To run the project locally, follow these steps:
 ## Screenshots
 
 ### List of Books
-![List of Books](path/to/list_of_books.png)
+First Page
+![List of Books](books-1.png)
+Second Page
+![List of Books](books-2.png)
 
 ### Book Details
-![Book Details](path/to/book_details.png)
+![Book Details](book-hobbit.png)
 
 ## Technologies Used
 

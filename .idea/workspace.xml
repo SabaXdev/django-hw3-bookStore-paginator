@@ -5,14 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c438b7b5-96f9-4d88-b40f-ed859ffafb25" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book_store/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/book_store/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book_store/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/book_store/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/market/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/market/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/market/templates/all_books.html" beforeDir="false" afterPath="$PROJECT_DIR$/market/templates/all_books.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/market/templates/one_book.html" beforeDir="false" afterPath="$PROJECT_DIR$/market/templates/one_book.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/market/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/market/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
